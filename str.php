@@ -8,5 +8,5 @@ echo "<h1>Muaz</h1>";
 
 <div>
 
-    Mainul
+    Mainul kanon
 </div>
